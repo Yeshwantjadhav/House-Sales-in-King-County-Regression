@@ -57,6 +57,19 @@ This project consists of  prices for house sales which occurred between May 2014
 
 
 
+# Conclusion
+
+![215](https://github.com/Yeshwantjadhav/House-Sales-in-King-County-Regression/assets/120619581/8625c88b-cefc-4083-9cb5-8fef38190150)
+
+
+
+
+
+
+
+
+
+
 
 
 
