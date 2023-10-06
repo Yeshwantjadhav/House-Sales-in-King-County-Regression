@@ -5,6 +5,12 @@ This project consists of  prices for house sales which occurred between May 2014
 
 
 # Folder Structure Guide
+| Files/Folder           | Description                                                                                     |
+|------------------------|-------------------------------------------------------------------------------------------------|
+| .ipynb Folder          | This folder includes the Jupyter Notebook files that were utilized to make Machine Learning models |
+| Dataset Folder         | Within this folder, there are CSV tables that were used for model building.|
+| Presentation Folder    | This folder contains the presentation in pdf format.                                           |
+                
 
 
 
